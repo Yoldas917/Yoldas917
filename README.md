@@ -1,25 +1,18 @@
 # Muhammet Emin Yoldaş
 
-**Software Engineering Student · Co-founder & Developer [@ao.soft](https://www.ao-soft.com/)**
+Software Engineering student and co-founder at [ao.soft](https://www.ao-soft.com/), where we build web and mobile apps for small businesses.
 
-I build real products. Alongside my Software Engineering studies, I co-founded **ao.soft**, a software studio delivering web & mobile applications, SaaS platforms, and automation for small and medium businesses.
+Most of my time goes into **[SoftKonut](https://www.softkonut.com.tr/)** — a real estate management SaaS we run at ao.soft. It's live with paying customers and handles property portfolios, client matching, contracts and commission tracking from one panel (web + mobile).
 
-### 🚀 What I'm building
+I work with AI tools heavily in my day-to-day coding — building AI-powered apps (see the Ollama project below) and using assistants like Claude to ship faster.
 
-**[SoftKonut](https://www.softkonut.com.tr/)** — A commercial SaaS platform for real estate agencies, live with paying customers. Manage property portfolios, client matching, contracts, and commission analytics from a single panel. *(Web + mobile — team project under ao.soft.)*
+**Tech I use:** Java, C, Python, JavaScript/React/Node, Django, HTML/CSS
 
-### 🧰 Tech
+### A few things I've built on the side
 
-- **Proficient:** Java · C · Python
-- **Working knowledge:** JavaScript · React · Node.js · Django
-- **Also:** HTML/CSS
+- **[LanShare](https://github.com/Yoldas917/lanshare)** — Screen sharing over LAN for Android. WebRTC with hardware H.264, auto-discovery over NSD, signaling baked in. (Kotlin)
+- **[Ollama Clipboard AI](https://github.com/Yoldas917/ollama-clipboard-ai)** — A clipboard assistant that runs a local LLM through Ollama. Works on macOS and Windows. (Python)
 
-### 📂 Open-source projects
+### Reach me
 
-- **[LanShare](https://github.com/Yoldas917/lanshare)** — LAN screen-sharing app for Android (WebRTC, hardware H.264 encoding, NSD auto-discovery, embedded signaling). *Kotlin*
-- **[Ollama Clipboard AI](https://github.com/Yoldas917/ollama-clipboard-ai)** — A local clipboard AI assistant powered by Ollama, for macOS & Windows. *Python*
-
-### 📫 Contact
-
-- Email: **muhammeteminyoldas@gmail.com**
-- Web: [ao-soft.com](https://www.ao-soft.com/)
+muhammeteminyoldas@gmail.com · [ao-soft.com](https://www.ao-soft.com/)
